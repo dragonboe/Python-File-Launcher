@@ -139,7 +139,7 @@ pip install customtkinter --upgrade
 ## 🖥️ Interface
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1305337954314752020/1341791545728438323/TOeNYaB5VBEz.png?ex=67b74841&is=67b5f6c1&hm=aca423d825a883ae944a54191397e87fa9d30580fe646545229e580fca734a1f&" alt="Interface Screenshot" width="600"/>
+<img src="https://cdn.discordapp.com/attachments/1305337954314752020/1341806060670943293/1x0w429JNg6c.png?ex=67b755c6&is=67b60446&hm=1c50407d000369c9989d0225ffb409bee7e648db6c9bed0119dbbec182721ee1&" alt="Interface Screenshot" width="600"/>
 </div>
 
 The modern interface includes:
