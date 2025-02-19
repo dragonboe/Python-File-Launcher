@@ -53,7 +53,7 @@
 
 - Python 3.7 or higher
 - pip (Python package installer)
-- Windows/macOS/Linux
+- Windows Only I haven't tested in other distrobutions like MacOS & Linux.
 
 ### Quick Start
 
