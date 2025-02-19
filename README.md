@@ -1,4 +1,8 @@
-# 🚀 App Launcher Pro - I made this on my free time and I was bored.
+# 🚀 App Launcher Pro
+
+```bash
+I made this on my free time and I was bored.
+```
 
 <div align="center">
 
@@ -70,10 +74,6 @@ Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest new features
 - Submit pull requests
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
