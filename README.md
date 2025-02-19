@@ -14,9 +14,30 @@
 
 ### A modern, sleek application launcher with category management and delayed launch capabilities.
 
-[Features](#-features) • [Installation](#%EF%B8%8F-installation) • [Usage](#-usage) • [Contributing](#-contributing) • [License](#-license)
+[Features](#-features) • [Updates](#-updates) • [Installation](#%EF%B8%8F-installation) • [Usage](#-usage) • [Contributing](#-contributing) • [License](#-license)
 
 </div>
+
+## 🎯 Updates
+
+<table>
+  <tr>
+    <td>🌙 <b>AMOLED Dark Theme</b></td>
+    <td>New sleek AMOLED dark theme for better visibility and reduced eye strain</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Performance Boost</b></td>
+    <td>Improved launch times and reduced memory usage</td>
+  </tr>
+  <tr>
+    <td>🎮 <b>Enhanced Controls</b></td>
+    <td>Added new keyboard shortcuts and improved navigation</td>
+  </tr>
+  <tr>
+    <td>📊 <b>Usage Analytics</b></td>
+    <td>Track your most used apps and launch patterns</td>
+  </tr>
+</table>
 
 ## ✨ Features
 
@@ -53,7 +74,7 @@
 
 - Python 3.7 or higher
 - pip (Python package installer)
-- Windows Only I haven't tested in other distrobutions like MacOS & Linux.
+- Windows Only (MacOS & Linux support coming soon)
 
 ### Quick Start
 
@@ -70,7 +91,7 @@ pip install customtkinter pillow
 
 3. **Launch the application:**
 ```bash
-python de.py
+python launcher.py
 ```
 
 ### Troubleshooting
