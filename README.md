@@ -118,7 +118,7 @@ pip install customtkinter --upgrade
 ## 🖥️ Interface
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dragonboe/Python-File-Launcher/main/screenshot.png" alt="Interface Screenshot" width="600"/>
+<img src="https://cdn.discordapp.com/attachments/1305337954314752020/1341791545728438323/TOeNYaB5VBEz.png?ex=67b74841&is=67b5f6c1&hm=aca423d825a883ae944a54191397e87fa9d30580fe646545229e580fca734a1f&" alt="Interface Screenshot" width="600"/>
 </div>
 
 The modern interface includes:
