@@ -1,4 +1,4 @@
-# 🚀 App Launcher Pro
+# 🚀 PyLauncher
 
 <div align="center">
 
@@ -187,7 +187,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Stargazers](https://img.shields.io/github/stars/dragonboe/Python-File-Launcher.svg?style=social)](https://github.com/dragonboe/Python-File-Launcher/stargazers)
 [![Follow](https://img.shields.io/github/followers/dragonboe.svg?style=social&label=Follow)](https://github.com/dragonboe)
-
-Made with ❤️ by dragonboe aka marla :)
 
 </div>
