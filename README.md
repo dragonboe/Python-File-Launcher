@@ -22,7 +22,7 @@
 - ⏰ **Delayed launching** - add seconds between apps for sequential startup
 - 🔄 **Batch launch** - start multiple programs with one click  
 - 🔍 **Real-time search** - type to filter apps instantly  
--  **Auto-save** - all data persisted in JSON  
+- 📦 **Auto-save** - all data persisted in JSON  
 - ⌨️ **Customizable keyboard shortcuts** - configure your own hotkeys
 - 📖 **Built-in help system** - comprehensive user guide included
 - ⚙️ **Settings dialog** - customize shortcuts to your preference
@@ -159,5 +159,5 @@ Do whatever you want - change it, sell it, fork it, whatever.
 
 <div align="center">
   <b>PyLauncher V2.2</b> - Simple. Fast. Minimal.<br>
-  <small>Free forever • Built with ♥ using Python</small>
+  <small>Free forever • Built with ♥ by emy using Python</small>
 </div>
