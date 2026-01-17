@@ -1,4 +1,4 @@
-# 🚀 PyLauncher v2.1
+# 🚀 PyLauncher v2.2
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -10,6 +10,8 @@
 **Modern application launcher** with categories, favorites, usage stats, delayed/batch launching, real-time search, and clean dark theme - built with pure Python + tkinter (zero external dependencies).
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Keyboard Shortcuts](#-keyboard-shortcuts) • [Contributing](#-contributing) • [License](#-license)
+
+<img width="1851" height="1080" alt="{1060DFF7-C162-4C7A-A379-D62417887E78}" src="https://github.com/user-attachments/assets/3899c9dd-78ba-4e25-a703-0b4ec92f766e" />
 
 ## ✨ Features
 
