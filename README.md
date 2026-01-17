@@ -31,8 +31,8 @@
 - Only standard library modules (tkinter, json, os, threading) - **no pip installs needed**
 
 **Quick start**  
-1. Download `la.py`  
-2. Run: python la.py
+1. Download `launcher.py`  
+2. Run: python launcher.py
 3. First launch creates:
 - `app_paths.json` - categories + app paths  
 - `app_stats.json` - launch counts & dates  
