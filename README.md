@@ -41,14 +41,14 @@
    ```
 3. Run the launcher:
    ```bash
-   python test.py
+   python launcher.py
    ```
 4. First launch creates `launcher_cfg.json` for all your data
 
 **File structure**
 ```
 PyLauncher/
-├── test.py              # Main application
+├── launcher.py          # Main application
 └── launcher_cfg.json    # Auto-generated config (categories, apps, shortcuts)
 ```
 
